@@ -216,7 +216,7 @@ const videos = [
     thumbnail: "https://i.ibb.co/DzXRfyr/Bucket-59038.png",
     video: "https://player.vimeo.com/video/949620200?h=d60220d68d",
     prompt:
-      "Make a fun video about hackers and all the cool stuff they do with computers",
+      "Make a fun video about hackers and all the cool stuff they do with ",
   },
 ];
 ```
